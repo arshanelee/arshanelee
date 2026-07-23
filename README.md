@@ -16,17 +16,6 @@
        alt="Profile views"
        title="Total views"/> 
 </a>
-<a href="https://api.github-star-counter.workers.dev/user/devaicee">
-  <img width="115px" 
-       alt="stars" 
-       title="Total stars" 
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/devaicee" /> 
-</a>
-<a href="https://github.com/devaicee?tab=followers">
-  <img 
-    alt="GitHub followers"
-    src="https://img.shields.io/github/followers/arshanelee?style=for-the-badge&color=black&label=Followers" />
-</a>
 </div>
 
 </br>
